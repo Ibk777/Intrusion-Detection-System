@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel IDS",
+  "description": "A web-based Intrusion Detection System that monitors traffic, analyzes logs with AI, and visualizes security threats in real-time.",
+  "requestFramePermissions": []
+}
